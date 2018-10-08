@@ -42,6 +42,7 @@ class WingedFanPrinter {
         for (int j = 0; j < i; j++) {
             System.out.println(thirdQuaterWing.get(j) + fourthQuaterWing.get(j));
         }
+        System.out.println();
     }
 
 
